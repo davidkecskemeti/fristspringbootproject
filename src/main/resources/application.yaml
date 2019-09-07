@@ -1,0 +1,4 @@
+#loggin:
+#  level:
+#    org.springframwork: INFO
+#    org.springframework.web.servlet: DEBUG
