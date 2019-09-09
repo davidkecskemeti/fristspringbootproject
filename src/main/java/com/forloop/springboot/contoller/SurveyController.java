@@ -18,7 +18,7 @@ import java.util.List;
  * DELETE - Delete a resource => surveys/{surveyId}/questions/{questionId}"
  */
 @RestController
-public class SurveyContoller {
+public class SurveyController {
 
     @Autowired
     private SurveyService surveyService;
